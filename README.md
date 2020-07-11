@@ -23,6 +23,6 @@ olarak işlemlerin yapılmasıyla performans da arttırılır. Bu bağlamda proj
 paralel programlamanın seriden daha hızlı olmasıdır.
 
 Ben bu projeyi 1K, 2K, 3K, 4K ve 5K'lık matrisler için koştum. Evet, gerçekten de seri ve paraleli 
-genel olarak karşılaştıracak olursakher açıdan parallel programlama seriden daha hızlıdır.
-Seride de float için 1K, 2K ve 5K az ya da çok farkla bile olsa daha hızlı, 3K ve 4K için ise double daha hızlı olduğu görülmektedir.
+genel olarak karşılaştıracak olursak her açıdan paralel programlama seriden daha hızlıdır.
+Seride de float için 1K, 2K ve 5K az ya da çok farkla bile olsa daha hızlı, 3K ve 4K için ise double'ın daha hızlı olduğu görülmektedir.
 Bu durum uyguladığım algoritma ya da bilgisayarın sistem özelliklerinden kaynaklanıyor olabilir.
