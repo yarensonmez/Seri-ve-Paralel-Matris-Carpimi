@@ -5,6 +5,8 @@ Pandemi süresince Paralel Bilgisayarlar dersi dönem projesi olarak verilen bu 
 FLOAT ve DOUBLE değişkenlerinin seri ve paralel programlamadaki performanslara etkisi ve
 paralel programlamanın kod performansına etkileri nxn'lik matrislerin çarpımı üzerinden koda dökülmüştür.
 
+Tamamlanmış ve çalışır durumda bir projedir.
+
 Bu projenin Visual Studio ortamında çalışabilmesi için Studio derleyicisindeki OpenMP desteğinin
 aktifleştirilmesi gerekir. 2019 versiyonu için en üstte yer alan sekmelerden
 "Proje > Proje Özellikleri > C / C++ > Dil > Open MP Desteği"
