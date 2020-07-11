@@ -1,0 +1,11 @@
+﻿  paralelproje.cpp
+C:\Users\serda\Desktop\4. Sınıf\Paralel\paralelproje\paralelproje\paralelproje.cpp(58,24): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\serda\Desktop\4. Sınıf\Paralel\paralelproje\paralelproje\paralelproje.cpp(60,27): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\serda\Desktop\4. Sınıf\Paralel\paralelproje\paralelproje\paralelproje.cpp(73,24): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\serda\Desktop\4. Sınıf\Paralel\paralelproje\paralelproje\paralelproje.cpp(75,27): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\serda\Desktop\4. Sınıf\Paralel\paralelproje\paralelproje\paralelproje.cpp(90,24): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\serda\Desktop\4. Sınıf\Paralel\paralelproje\paralelproje\paralelproje.cpp(92,27): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\serda\Desktop\4. Sınıf\Paralel\paralelproje\paralelproje\paralelproje.cpp(107,24): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\serda\Desktop\4. Sınıf\Paralel\paralelproje\paralelproje\paralelproje.cpp(109,27): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\serda\Desktop\4. Sınıf\Paralel\paralelproje\paralelproje\paralelproje.cpp(115): warning C4717: 'main' : tüm denetim yollarında özyinelemelidir, işlev çalışma zamanı yığın taşmasına neden olacak
+  paralelproje.vcxproj -> C:\Users\serda\Desktop\4. Sınıf\Paralel\paralelproje\Debug\paralelproje.exe
