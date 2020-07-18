@@ -1,4 +1,4 @@
-# yarensonmez-Seri-ve-Paralel-Matris-Carpimi
+# Seri-ve-Paralel-Matris-Carpimi
 Visual Studio 2019 ortamında C++ diliyle yazılmıştır. Paralel programlama kısmı OpenMP ile gerçekleştirilmiştir.
 
 Pandemi süresince Paralel Bilgisayarlar dersi dönem projesi olarak verilen bu projede
